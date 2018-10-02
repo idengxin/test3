@@ -1,3 +1,7 @@
 ﻿just try
 creat a new branch
-&
+<<<<<<< HEAD
+and
+=======
+and
+>>>>>>> feature1
