@@ -5,3 +5,5 @@ and
 =======
 and
 >>>>>>> feature1
+
+add another information
